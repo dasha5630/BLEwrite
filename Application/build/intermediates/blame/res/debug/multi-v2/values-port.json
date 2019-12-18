@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/daria/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b04a48a3bb3dbebfce9913093de7bf2/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
