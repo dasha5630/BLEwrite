@@ -316,9 +316,8 @@ public class BluetoothLeService extends Service {
 
 
 
-    public boolean writeCharacteristic(){
+    public boolean writeCharacteristic(byte[] val){
         //check mBluetoothGatt is available
-        byte[] val = new byte[]{115,116,97,114,116};
         if (mBluetoothGatt == null) {
             Log.e(TAG, "lost connection");
             return false;
