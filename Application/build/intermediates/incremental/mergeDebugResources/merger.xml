@@ -1696,12 +1696,11 @@
         <item name="android:textAppearance">?android:textAppearanceLarge</item>
         <item name="android:lineSpacingMultiplier">1.2</item>
         <item name="android:shadowDy">-6.5</item>
-    </style></file><file path="/home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/res/values/base-strings.xml" qualifiers=""><string name="app_name">BluetoothLeGatt</string><string name="intro_message">
+    </style></file><file path="/home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/res/values/base-strings.xml" qualifiers=""><string name="app_name">CyberX Mask</string><string name="intro_message">
         <![CDATA[
         
             
-            This sample demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
-            to transmit arbitrary data between devices.
+            CyberX Beauty Mask Demo APP
             
         
         ]]>

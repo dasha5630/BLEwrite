@@ -1,4 +1,4 @@
-#Thu Dec 19 02:15:44 MSK 2019
+#Fri Dec 20 04:06:16 MSK 2019
 base.0=/home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
