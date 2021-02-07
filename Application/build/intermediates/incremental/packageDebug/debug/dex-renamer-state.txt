@@ -1,4 +1,4 @@
-#Fri Dec 20 04:06:16 MSK 2019
-base.0=/home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/transforms/dexMerger/debug/0
+#Sun Feb 07 23:36:18 MSK 2021
+base.0=/home/dasha5630/AndroidStudioProjects/BLEwrite/Application/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

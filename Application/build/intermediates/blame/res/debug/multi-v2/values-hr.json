@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "/home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml",
+            "outputFile": "/home/dasha5630/AndroidStudioProjects/BLEwrite/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml",
             "map": [
                 {
-                    "source": "/home/daria/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/faa7b11fbf25f7fe7ebeb96d3ce3b70d/res/values-hr/values-hr.xml",
+                    "source": "/home/dasha5630/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/c651381089b4049e2d9e71add0503045/res/values-hr/values-hr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,210,307,417,503,607,726,810,893,979,1083,1196,1302,1407,1520,1627,1796,1893",
+                        "endColumns": "104,96,109,85,103,118,83,82,85,103,112,105,104,112,106,168,96,88",
+                        "endOffsets": "205,302,412,498,602,721,805,888,974,1078,1191,1297,1402,1515,1622,1791,1888,1977"
+                    }
+                },
+                {
+                    "source": "/home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/bace4d28e5623ff06fdaab549645b703/res/values-hr/values-hr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -18,16 +28,6 @@
                         "startOffsets": "1982",
                         "endColumns": "100",
                         "endOffsets": "2078"
-                    }
-                },
-                {
-                    "source": "/home/daria/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b04a48a3bb3dbebfce9913093de7bf2/res/values-hr/values-hr.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,210,307,417,503,607,726,810,893,979,1083,1196,1302,1407,1520,1627,1796,1893",
-                        "endColumns": "104,96,109,85,103,118,83,82,85,103,112,105,104,112,106,168,96,88",
-                        "endOffsets": "205,302,412,498,602,721,805,888,974,1078,1191,1297,1402,1515,1622,1791,1888,1977"
                     }
                 }
             ]

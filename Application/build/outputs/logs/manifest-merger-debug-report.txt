@@ -1,125 +1,127 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:1-52:12
-INJECTED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:1-52:12
-INJECTED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:1-52:12
-MERGED from [com.android.support:support-v13:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/0fa8323199d8d0ed78400dcb4aa35004/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/ee05f2aed38025bedee3ef2d98d3a0af/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/439420ddeb289c64c2005193b7afb5e3/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b04a48a3bb3dbebfce9913093de7bf2/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/95ca623c552e59e10cdd95de120d9177/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/e030a21f38a43d74914ed85be74727e0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/28df08f2a6aa1a997a1f1901c1991716/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/0b480f493a30446115108bf0316b3406/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/9c19df36921eef47ac493a02b395d5a9/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/02992ec54464a51034c186f7a2ed6cf6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/faa7b11fbf25f7fe7ebeb96d3ce3b70d/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/daria/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/99e906d3308b9b3c853948b35477fb2d/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:1-52:12
-INJECTED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:1-52:12
+ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:20:1-53:12
+INJECTED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:20:1-53:12
+INJECTED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:20:1-53:12
+MERGED from [com.android.support:support-v13:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/42cfe6f32078019c2964cdb31e5f7dbe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/a33cb18b2e24a17d0034eb6c2887f7e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/8f0d89669165925831f98d7df0cc19d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/c651381089b4049e2d9e71add0503045/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/744d33d14b825434b3bd718b666c2d15/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/5b41207e45da058658d754c0a768b7f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/87d1df66c18175f9ded8c952ebd3c5ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/8bb4c584fc479a1e6feb7d0e531d3121/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6f4f10fe6cf50624d43c671fd98731d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/e1c8e11c42c2b352a92ab117a0ce76d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/bace4d28e5623ff06fdaab549645b703/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/87dad423699f264617bdad00aea6c9eb/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:20:1-53:12
+INJECTED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:20:1-53:12
 	package
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:21:5-50
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:21:5-52
 	android:versionName
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:23:5-30
-		INJECTED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
-		INJECTED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:23:5-30
+		INJECTED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:11-69
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:20:11-69
 	android:versionCode
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:22:5-28
-		INJECTED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
-		INJECTED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:22:5-30
+		INJECTED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml
 uses-feature#android.hardware.bluetooth_le
-ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:31:5-89
+ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:31:5-89
 	android:required
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:31:64-87
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:31:64-87
 	android:name
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:31:19-63
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:31:19-63
 uses-permission#android.permission.BLUETOOTH
-ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:33:5-67
+ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:33:5-67
 	android:name
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:33:22-65
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:33:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:34:5-73
+ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:34:5-73
 	android:name
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:34:22-71
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:34:22-71
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:35:5-78
+ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:35:5-78
 	android:name
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:35:22-76
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:35:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:36:5-80
+ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:36:5-80
 	android:name
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:36:22-78
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:36:22-78
 application
-ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:38:5-50:19
+ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:38:5-51:19
+	android:screenOrientation
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:41:9-45
 	android:label
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:38:18-50
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:38:18-50
 	android:icon
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:39:9-45
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:39:9-45
 	android:theme
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:40:9-56
-activity#com.example.android.bluetoothlegatt.DeviceScanActivity
-ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:41:9-47:20
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:40:9-56
+activity#com.example.android.bluetoothlegatt_1.DeviceScanActivity
+ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:42:9-48:20
 	android:label
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:42:13-45
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:43:13-45
 	android:name
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:41:19-53
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:42:19-90
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:43:13-46:29
+ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:44:13-47:29
 action#android.intent.action.MAIN
-ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:44:17-68
+ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:45:17-68
 	android:name
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:44:25-66
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:45:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:45:17-76
+ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:46:17-76
 	android:name
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:45:27-74
-activity#com.example.android.bluetoothlegatt.DeviceControlActivity
-ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:48:9-58
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:46:27-74
+activity#com.example.android.bluetoothlegatt_1.DeviceControlActivity
+ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:49:9-95
 	android:name
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:48:19-56
-service#com.example.android.bluetoothlegatt.BluetoothLeService
-ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:49:9-77
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:49:19-93
+service#com.example.android.bluetoothlegatt_1.BluetoothLeService
+ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:50:9-114
 	android:enabled
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:49:53-75
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:50:90-112
 	android:name
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:49:18-52
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml:50:18-89
 uses-sdk
-INJECTED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
-INJECTED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
-MERGED from [com.android.support:support-v13:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/0fa8323199d8d0ed78400dcb4aa35004/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v13:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/0fa8323199d8d0ed78400dcb4aa35004/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/ee05f2aed38025bedee3ef2d98d3a0af/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/ee05f2aed38025bedee3ef2d98d3a0af/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/439420ddeb289c64c2005193b7afb5e3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/439420ddeb289c64c2005193b7afb5e3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b04a48a3bb3dbebfce9913093de7bf2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b04a48a3bb3dbebfce9913093de7bf2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/95ca623c552e59e10cdd95de120d9177/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/95ca623c552e59e10cdd95de120d9177/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/e030a21f38a43d74914ed85be74727e0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/e030a21f38a43d74914ed85be74727e0/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/28df08f2a6aa1a997a1f1901c1991716/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/28df08f2a6aa1a997a1f1901c1991716/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/0b480f493a30446115108bf0316b3406/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/0b480f493a30446115108bf0316b3406/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/9c19df36921eef47ac493a02b395d5a9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/9c19df36921eef47ac493a02b395d5a9/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/02992ec54464a51034c186f7a2ed6cf6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/02992ec54464a51034c186f7a2ed6cf6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/faa7b11fbf25f7fe7ebeb96d3ce3b70d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.0.2] /home/daria/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/faa7b11fbf25f7fe7ebeb96d3ce3b70d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/daria/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/99e906d3308b9b3c853948b35477fb2d/AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/daria/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/99e906d3308b9b3c853948b35477fb2d/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
-INJECTED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+INJECTED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml
+INJECTED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/42cfe6f32078019c2964cdb31e5f7dbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/42cfe6f32078019c2964cdb31e5f7dbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/a33cb18b2e24a17d0034eb6c2887f7e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/a33cb18b2e24a17d0034eb6c2887f7e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/8f0d89669165925831f98d7df0cc19d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/8f0d89669165925831f98d7df0cc19d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/c651381089b4049e2d9e71add0503045/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/c651381089b4049e2d9e71add0503045/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/744d33d14b825434b3bd718b666c2d15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/744d33d14b825434b3bd718b666c2d15/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/5b41207e45da058658d754c0a768b7f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/5b41207e45da058658d754c0a768b7f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/87d1df66c18175f9ded8c952ebd3c5ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/87d1df66c18175f9ded8c952ebd3c5ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/8bb4c584fc479a1e6feb7d0e531d3121/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/8bb4c584fc479a1e6feb7d0e531d3121/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6f4f10fe6cf50624d43c671fd98731d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/6f4f10fe6cf50624d43c671fd98731d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/e1c8e11c42c2b352a92ab117a0ce76d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/e1c8e11c42c2b352a92ab117a0ce76d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/bace4d28e5623ff06fdaab549645b703/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/bace4d28e5623ff06fdaab549645b703/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/87dad423699f264617bdad00aea6c9eb/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/dasha5630/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/87dad423699f264617bdad00aea6c9eb/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml
+INJECTED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
-		INJECTED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
-		ADDED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
-		INJECTED from /home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml
+		ADDED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/dasha5630/AndroidStudioProjects/BLEwrite/Application/src/main/AndroidManifest.xml

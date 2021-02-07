@@ -18,8 +18,8 @@
 
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.android.bluetoothlegatt"
-    android:versionCode="1"
+    package="com.example.android.bluetoothlegatt_1"
+    android:versionCode="999"
     android:versionName="1.0">
 
     <!-- Min/target SDK versions (<uses-sdk>) managed by build.gradle -->
@@ -37,16 +37,17 @@
 
     <application android:label="@string/app_name"
         android:icon="@drawable/ic_launcher"
-        android:theme="@android:style/Theme.Holo.Light">
-        <activity android:name=".DeviceScanActivity"
+        android:theme="@android:style/Theme.Holo.Light"
+        android:screenOrientation="portrait">
+        <activity android:name="com.example.android.bluetoothlegatt_1.DeviceScanActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".DeviceControlActivity"/>
-        <service android:name=".BluetoothLeService" android:enabled="true"/>
+        <activity android:name="com.example.android.bluetoothlegatt_1.DeviceControlActivity"/>
+        <service android:name="com.example.android.bluetoothlegatt_1.BluetoothLeService" android:enabled="true"/>
     </application>
 
 </manifest>

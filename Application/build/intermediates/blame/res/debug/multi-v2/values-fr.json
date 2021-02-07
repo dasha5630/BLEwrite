@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
+            "outputFile": "/home/dasha5630/AndroidStudioProjects/BLEwrite/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
             "map": [
                 {
-                    "source": "/home/daria/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/faa7b11fbf25f7fe7ebeb96d3ce3b70d/res/values-fr/values-fr.xml",
+                    "source": "/home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/bace4d28e5623ff06fdaab549645b703/res/values-fr/values-fr.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/daria/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b04a48a3bb3dbebfce9913093de7bf2/res/values-fr/values-fr.xml",
+                    "source": "/home/dasha5630/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/c651381089b4049e2d9e71add0503045/res/values-fr/values-fr.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

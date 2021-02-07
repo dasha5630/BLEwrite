@@ -16,13 +16,11 @@
 -->
 
 <resources>
-    <string name="app_name">CyberX Mask</string>
+    <string name="app_name">BleReadWrite</string>
     <string name="intro_message">
         <![CDATA[
-        
             
-            CyberX Beauty Mask Demo APP
-            
+            Ble Read\Write
         
         ]]>
     </string>

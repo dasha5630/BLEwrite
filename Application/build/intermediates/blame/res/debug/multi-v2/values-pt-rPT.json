@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "/home/daria/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
+            "outputFile": "/home/dasha5630/AndroidStudioProjects/BLEwrite/Application/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml",
             "map": [
                 {
-                    "source": "/home/daria/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/faa7b11fbf25f7fe7ebeb96d3ce3b70d/res/values-pt-rPT/values-pt-rPT.xml",
+                    "source": "/home/dasha5630/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/c651381089b4049e2d9e71add0503045/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,225,331,438,527,628,752,836,917,1004,1111,1223,1325,1433,1540,1647,1818,1917",
+                        "endColumns": "119,105,106,88,100,123,83,80,86,106,111,101,107,106,106,170,98,84",
+                        "endOffsets": "220,326,433,522,623,747,831,912,999,1106,1218,1320,1428,1535,1642,1813,1912,1997"
+                    }
+                },
+                {
+                    "source": "/home/dasha5630/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/bace4d28e5623ff06fdaab549645b703/res/values-pt-rPT/values-pt-rPT.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -18,16 +28,6 @@
                         "startOffsets": "2002",
                         "endColumns": "100",
                         "endOffsets": "2098"
-                    }
-                },
-                {
-                    "source": "/home/daria/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9b04a48a3bb3dbebfce9913093de7bf2/res/values-pt-rPT/values-pt-rPT.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,225,331,438,527,628,752,836,917,1004,1111,1223,1325,1433,1540,1647,1818,1917",
-                        "endColumns": "119,105,106,88,100,123,83,80,86,106,111,101,107,106,106,170,98,84",
-                        "endOffsets": "220,326,433,522,623,747,831,912,999,1106,1218,1320,1428,1535,1642,1813,1912,1997"
                     }
                 }
             ]

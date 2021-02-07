@@ -31,26 +31,40 @@
 
         <TextView
             android:id="@+id/device_address"
-            android:layout_width="match_parent"
-            android:layout_height="175dp"
+            android:layout_width="419dp"
+            android:layout_height="137dp"
             android:textSize="18sp" />
     </LinearLayout>
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/ping"
         style="@android:style/Widget.Material.Light.Button.Inset"
         android:layout_width="150dp"
         android:layout_height="100dp"
         android:layout_gravity="center"
         android:onClick="onOnClick"
-        android:text="ON" />
+        android:text="PING" />
 
     <Button
-        android:id="@+id/button7"
+        android:id="@+id/measure"
         style="@android:style/Widget.DeviceDefault.Button.Inset"
         android:layout_width="150dp"
         android:layout_height="100dp"
         android:layout_gravity="center"
-        android:text="OFF" />
+        android:text="MEASURE" />
+
+    <TextView
+        android:id="@+id/distance_data"
+        android:layout_width="match_parent"
+        android:layout_height="82dp"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textSize="50sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/raw_data_value"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 
 </LinearLayout>
